@@ -41,3 +41,5 @@
 - 가나디를 만들려고 시도함
 - 가나디 귀가 머리보다 작아질수가 없어서 그냥 공으로 함.
 - 박스크기를 조절할수 있었으나 밸런스가 안맞음.
+
+https://www.glowscript.org/#/user/jiminn/folder/MyPrograms/program/%EC%9D%B4%EA%B2%8C%EB%AD%90%EB%88%84!?!?%EA%B0%80%EB%82%98%EB%94%94%EB%88%84!!
